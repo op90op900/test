@@ -1,0 +1,1 @@
+consoole.loog('hello');
